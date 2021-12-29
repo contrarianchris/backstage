@@ -19236,9 +19236,9 @@ jwt-decode@*, jwt-decode@^3.1.0:
   integrity sha512-UfpWE/VZn0iP50d8cz9NrZLM9lSWhcJ+0Gt/nm4by88UL+J1SiKN8/5dkjMmbEzwL2CAe+67GsegCbIKtbp75A==
 
 kafkajs@^1.16.0-beta.6:
-  version "1.16.0-beta.21"
-  resolved "https://registry.npmjs.org/kafkajs/-/kafkajs-1.16.0-beta.21.tgz#5736bcef7b505714642a82d6dc0d1507fc0ae817"
-  integrity sha512-6iarOOnKTaei0EK+a+K2V/bBA7YgvpA69tZwnVF85PxGlvoG/wqKpfRNh2Mb04uiNTEwBYNEIO7hAFElEM6/AA==
+  version "1.16.0-beta.31"
+  resolved "https://registry.npmjs.org/kafkajs/-/kafkajs-1.16.0-beta.31.tgz#2e3da9edee18f3e88318fd60c4e0903ca0bc533e"
+  integrity sha512-DKJKxVAnvP3Dvu58qeQPtZ64T29Tcg6Pkty68ZmJw3/0Dh7jbxCvgq+Qx4xPfTky6sMIGn/P8bihc14xArTbYA==
 
 keytar@^7.3.0:
   version "7.7.0"
